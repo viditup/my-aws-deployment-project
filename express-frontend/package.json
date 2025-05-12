@@ -1,0 +1,16 @@
+{
+  "name": "express-frontend",
+  "version": "1.0.0",
+  "description": "Express frontend app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=10.0.0"
+  }
+}
