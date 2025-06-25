@@ -21,8 +21,3 @@ This project demonstrates deploying a full stack app using Flask (backend) and E
 - Docker images for both apps are pushed to ECR.
 - ECS Fargate is used to deploy containers.
 - VPC handles network configuration.
-
----
-
-## 📁 Folders
-
